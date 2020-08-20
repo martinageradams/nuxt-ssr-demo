@@ -21,7 +21,7 @@ $ npm run generate
 
 ### 前端公众号群
 
-![](https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461)
+![](https://user-images.githubusercontent.com/51536312/90706218-47d91600-e2c7-11ea-99ea-5626856e5803.png)
 
 ### [项目线上地址](http://www.qiangdada.cn/)
 
