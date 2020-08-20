@@ -19,7 +19,9 @@ $ npm start
 $ npm run generate
 ```
 
-### 前端交流群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbc7299cbc5ac88cc77dc76057ace6340d50847e18016a80aa33d45bb6e9462b">731175396</a>
+### 前端公众号群
+
+![](https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461)
 
 ### [项目线上地址](http://www.qiangdada.cn/)
 
