@@ -533,4 +533,4 @@ pm2 start npm --name "nuxt-ssr-demo" -- run build
 
 不管如何，希望 `Nuxt` 社区可以越来越好吧 ~
 
-最后，如果觉得这个项目有点意思，欢迎 star。当然，如果你想了解更多 `Nuxt` ，欢迎进群<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbc7299cbc5ac88cc77dc76057ace6340d50847e18016a80aa33d45bb6e9462b">731175396</a>，一起探讨
+最后，如果觉得这个项目有点意思，欢迎 star。当然，如果你想了解更多 `Nuxt`。
